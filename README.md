@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem vindo(a)! </h1>
 
    
-   Meu nome é Wellington, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera. E estou estudando no Curso Fullstack Full Stack Javascript Developer da escola [T.EX Experts](https://texperts.com.br/courses/full-stack-javascript-developer/).
+   Meu nome é Wellington, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera. E estou estudando no Curso Full Stack Javascript Developer da escola [T.EX Experts](https://texperts.com.br/courses/full-stack-javascript-developer/).
    
 
 ## Estou aprendendo sobre:
