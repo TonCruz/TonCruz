@@ -8,11 +8,10 @@
 
 - HTML
 - CSS + SASS
-- JavaScript
+- JavaScript + TypeScript
 - React.JS
 - Vue.JS
 - Node.JS
-- TypeScript
 - Git/Github
   
 ##
