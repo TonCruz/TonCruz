@@ -1,18 +1,16 @@
 <h1 align="center">Olá, seja bem vindo(a)! </h1>
 
    
-   Meu nome é Wellington, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera. E estou estudando no Curso Full Stack Javascript Developer da escola [T.EX Experts](https://texperts.com.br/courses/full-stack-javascript-developer/).
+   Meu nome é Wellington, atualmente estou me especializando em Data Science, com o Curso Gerando Valor com Dados da ecola Preditiva.ai e o MBA em Data Science e Analytics da USP.
    
 
 ## Estou aprendendo sobre:
 
-- HTML
-- CSS + SASS
-- JavaScript + TypeScript
-- React.JS
-- Vue.JS
-- Node.JS
-- Git/Github
+- Estatística aplicada em Data Science
+- Python para Análise de Dados
+- SQL
+- Power BI e Excel
+
   
 ##
 
