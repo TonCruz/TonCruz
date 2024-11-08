@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem vindo(a)! </h1>
 
    
-   Meu nome é Wellington, atualmente estou me especializando em Data Science, com o Curso Gerando Valor com Dados da ecola Preditiva.ai e o MBA em Data Science e Analytics da USP.
+   Meu nome é Wellington, atualmente estou me especializando em Data Science, com o Curso Gerando Valor com Dados da ecola Preditiva.ai e o MBA em Data Science e Analytics da USP/Esalq.
    
 
 ## Estou aprendendo sobre:
