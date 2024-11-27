@@ -10,6 +10,7 @@
 - Python para Análise de Dados
 - SQL
 - Power BI e Excel
+- Machine Learning
 
   
 ##
